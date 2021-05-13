@@ -2,5 +2,5 @@ loadDocA("libros.xml","xml");
 
 function gestionarFicheroXML(fichero)
 {
-    alert("Llegué");
+    alert(fichero);
 }
